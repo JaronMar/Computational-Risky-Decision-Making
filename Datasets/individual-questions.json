@@ -1,0 +1,268 @@
+{
+	"Q1": {
+		"context": "Which of the following options do you prefer?",
+		"choice 1": "A sure win of $30",
+		"choice 2": "80% chance to win $45",
+		"frame": "gain",
+		"opposite frame": "null"
+	},
+	"Q2": {
+		"context": "Imagine that 6000 pieces of precious paintings in a world-famous museum are accidentally exposed to a disastrous chemical pollution. Two alternative plans to rescue these art treasures have been proposed. Assume that the exact estimates of the consequences of the plans made by scientists are as follows:",
+		"choice 1": "If plan A is adopted, 4000 pieces will be destroyed by the chemical pollution.",
+		"choice 2": "If plan B is adopted, there is a one-third probability that none of these paintings will be destroyed, and two-thirds probability that all 6000 of these paintings will be destroyed.",
+		"frame": "loss",
+		"opposite frame": "Q26"
+	},
+	"Q3": {
+		"context": "A large car manufacturer has recently been hit with a number of economic difficulties and it appears as if three plants need to be closed and 6000 employees laid off. The vice-president of production has been exploring alternative ways to avoid this crisis and has developed two plans:",
+		"choice 1": "Plan C: This plan will result in the loss of 2 plants and 4000 jobs.",
+		"choice 2": "Plan D: This plan has a 2/3 probability of resulting in the loss of 3 plants and all 6000 jobs, but has a 1/3 probability of losing no plants and no jobs",
+		"frame": "loss",
+		"opposite frame": "Q31"
+	},
+	"Q4": {
+		"context": "Imagine you recieve a letter from the president of a subsidiary describing a dilemma concerning whether to fight an impending patent violation suit or settle out of court that reads: If we do not agree to this proposal, PMG will file their suit. Going to court would involve the possibility of losing $1,100,000 in damages and losing the Duraplast line. If we win in court, we will incur a small sum for legal expenses. Our corporate lawyer, Mr. Bell, and our outside law firm estimate that we have a 2 in 3 chance of losing the case.",
+		"choice 1": "Agree to the proposal (no lawsuit)",
+		"choice 2": "Disagree to the proposal: 2/3 chance of losing the lawsuit and incurring costs of $1100000",
+		"frame": "loss",
+		"opposite frame": "Q22"
+	},
+	"Q5": {
+		"context": "Imagine that you have lung cancer and you must choose between two therapies: surgery and radiation. Surgery for lung cancer involves an operation on the lungs. Most patients are in the hospital for two or three weeks and have some pain around their incisions; they spend a month or so recuperating at home. After that, they generally feel fine. Radiation therapy for lung cancer involves the use of radiation to kill the tumor and requires coming to the hospital about four times a week for six weeks. Each treatment takes a few minutes and during the treatment, patients lie on a table as if they were having an x-ray. During the course of the treatment, some patients develop nausea and vomiting, but by the end of the six weeks they also generally feel fine. Thus, after the initial six or so weeks, patients treated with either surgery or radiation therapy feel about the same.",
+		"choice 1": "Surgery: Of 100 people having surgery, 90 live through the postoperative period, 68 are alive at the end of one year and 34 are alive at the end of five years.",
+		"choice 2": "Radiation Therapy: Of 100 people having radiation therapy, all live through treatment, 77 are alive at the end of one year and 22 are alive at the end of five years.",
+		"frame": "gain",
+		"opposite frame": "Q28"
+	},
+	"Q6": {
+		"context": "Imagine that you brought $6000 worth of stock from a company that has just filed a claim for bankruptcy recently. The company now provides you with two alternatives to recover some of your money.",
+		"choice 1": "You will save $2000 of your money",
+		"choice 2": "You will take part in a random drawing procedure with exactly a one-third probability of saving all $6000 of your money, and two-thirds probability of saving none of your money.",
+		"frame": "gain",
+		"opposite frame": "Q34"
+	},
+	"Q7": {
+		"context": "Imagine that in one particular state it is projected that 1000 students will dropout of school during the year, two programs have been prosed to address this problem, but only one can be implemented. Based on other states experiences with programs, estimates of the outcomes that can be expected for each program can be made.",
+		"choice 1": "Program 1: 600 of the 1000 students will drop out of school",
+		"choice 2": "Program 2: 2/5 chance that none of the 1000 students will drop out of school and 3/5 chance that all 1000 students will drop out of school",
+		"frame": "loss",
+		"opposite frame": "Q27"
+	},
+	"Q8": {
+		"context": "Assume that you have just been given a gift of $1000.",
+		"choice 1": "Taking an additional $500 for sure.",
+		"choice 2": "Flipping a coin and winning another $1000 if heads comes up or getting no additional money if tails comes up.",
+		"frame": "gain",
+		"opposite frame": "Q18"
+	},
+	"Q9(i)": {
+		"context": "Imagine that you face the following pair of concurrent decisions. First examine both decisions, then indicate the options you prefer.",
+		"choice 1": "A sure gain of $240",
+		"choice 2": "25% chance to gain $1000, and 75% chance to gain nothing",
+		"frame": "gain",
+		"opposite frame": "null"
+	},
+	"Q9(ii)": {
+		"context": "Imagine that you face the following pair of concurrent decisions. First examine both decisions, then indicate the options you prefer.",
+		"choice 1": "A sure loss of $750",
+		"choice 2": "75% chance to lose $1000, and 25% chance to lose nothing",
+		"frame": "loss",
+		"opposite frame": "null"
+	},
+	"Q9(iii)": {
+		"context": "Imagine that you face the following pair of concurrent decisions. First examine both decisions, then indicate the options you prefer.",
+		"choice 1": "25% chance to win $240, and 75% chance to lose $760",
+		"choice 2": "25% chance to win $250, and 75% chance to lose $750",
+		"frame": "both",
+		"opposite frame": "null"
+	},
+	"Q10": {
+		"context": "You are staying in a hotel room on vacation. You paid $6.95 to see a movie on pay TV. After 5 minutes you are bored and the movie seems pretty bad. Would you continue to watch the movie or not?",
+		"choice 1": "Continue to watch",
+		"choice 2": "Turn it off and lose $6.95",
+		"frame": "loss",
+		"opposite frame": "Q24"
+	},
+	"Q11": {
+		"context": "Imagine that your country is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimate of the consequences of the programs are as follows:",
+		"choice 1": "If Program A is adopted, 200 people will be saved",
+		"choice 2": "If Program B is adopted, there is 1/3 probability that 600 people will be saved, and 2/3 probability that no people will be saved",
+		"frame": "gain",
+		"opposite frame": "Q23"
+	},
+	"Q12": {
+		"context": "Imagine that you have decided to see a play where admission is $10 per ticket. As you enter the theatre you discover that you have lost a $10 bill.",
+		"choice 1": "Still pay $10 for a ticket for the play",
+		"choice 2": "Don't pay $10 for a ticket for the play",
+		"frame": "loss",
+		"opposite frame": "Q29"
+	},
+	"Q13": {
+		"context": "Consider the following two stage game. In the first stage, there is a 75% chance to end the game without winning anything, and a 25% chance to move into the second stage. If you reach the second stage, you have a choice between: A sure win of $30 and 80% chance to win $45",
+		"choice 1": "A sure win of $30 ",
+		"choice 2": "80% chance to win $45",
+		"frame": "gain",
+		"opposite frame": "null"
+	},
+	"Q14": {
+		"context": "Imagine that six people in your family, including both of your parents, your brothers and your sisters, are infected by a fatal disease. Two alternative medical plans to treat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the plans are as follows: ",
+		"choice 1": "If plan A is adopted, two of them will be saved.",
+		"choice 2": "If plan B is adopted, there is a one-third probability that all six of them will be saved, and two-thirds probability that none of them will be saved.",
+		"frame": "gain",
+		"opposite frame": "Q21"
+	},
+	"Q15": {
+		"context": "Your are presented with the following report from the head of a special team assigned to investigate the prospects of a project in Arizona: Our new analysis indicates that, if we choose to compete with ATC, we would face the possibility of capturing only a small market share. This would give us an after-tax return on investment of as little as 10%, while capturing a large market share would give us a return of 22%. We estimate our chance of getting a small market share to be 2 in 3. If we were to team up with ATC on the terms proposed, our return would be 14% after tax, with the same total investment.",
+		"choice 1": "Compete with ATC: 1/3 chance of gaining a large market share of 22% and 2/3 chance of gaining a small market share of 10%",
+		"choice 2": "Don't compete with ATC: 100% chance of capturing 14% market share",
+		"frame": "gain",
+		"opposite frame": "Q30"
+	},
+	"Q16": {
+		"context": "A committee found a fish disease in a nearby lake. About 12 fish species (among them the most popular dining fish) have the Proliferative Kidney Disease (PKD). This is a chronically developing infectious disease which can have deadly consequences for the fish. Young fish are especially susceptible, while others seem to be immune against an infection. Experts suggest that PKD is one cause of declining fish catches. The researchers assume human activities and water pollution foster the spread of the disease. They are considering releasing more fish into the lake to control the epidemic. Imagine that you are a government official of the adjacent village. ",
+		"choice 1": "Option A: If the release of fish is implemented, 4 fish species will survive.",
+		"choice 2": "Option B: If the release of fish is implemented, there is 1/3 probability that all of the 12 fish species will survive, and 2/3 probability that none of them will survive.",
+		"frame": "gain",
+		"opposite frame": "Q33"
+	},
+	"Q17": {
+		"context": "Imagine a refinery that processes petroleum products. An investigation found that due to tank leaks, both soil and drinking water became contaminated. Due to this contamination 720 children from the adjacent village have a fatal disease. There is agreement among experts that children will not suffer health problems, provided they have a strong immune system. Otherwise, it is likely that children will have serious health problems. A vaccine against this disease has been developed and tested. However, the vaccine sometimes can cause side effects that can be fatal too. You are an environmental activist with much influence on the local hospital and you have to decide if you want to lobby for the vaccination or not.",
+		"choice 1": "Option C:  If the vaccination is adopted, the health of 480 children will be damaged for sure.",
+		"choice 2": "Option D: If the vaccination is adopted, there is a one-third probability that the health of none of the 720 children will be damaged, and a two-thirds probability that the health of all 720 of them will be damaged.",
+		"frame": "loss",
+		"opposite frame": "Q35"
+	},
+	"Q18": {
+		"context": "Assume that you have just been given a gift of $2000. But you now are forced to choose between the following two alternatives: ",
+		"choice 1": "Losing $500 for sure",
+		"choice 2": "Flipping a coin and losing $1000 if heads comes up or losing nothing if tails comes up",
+		"frame": "loss",
+		"opposite frame": "Q8"
+	},
+	"Q19": {
+		"context": "Which of the following options do you prefer?",
+		"choice 1": "25% chance to win $30",
+		"choice 2": "20% chance to win $45",
+		"frame": "gain",
+		"opposite frame": "null"
+	},
+	"Q20": {
+		"context": "Imagine that you are about to purchase a jacket for $125, and a calculator for $15. The calculator salesman informs you that the calculator you wish to buy is on sale for $10 at the other branch of the store, located 20 minutes drive away.",
+		"choice 1": "Make the trip to the other store and save 5 dollars but lose 20 minutes",
+		"choice 2": "Don't make the trip to the other store and save 20 minutes but lose 5 dollars",
+		"frame": "null",
+		"opposite frame": "Q32"
+	},
+	"Q21": {
+		"context": "Imagine that six people in your family, including both of your parents, your brothers and your sisters, are infected by a fatal disease. Two alternative medical plans to treat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the plans are as follows:",
+		"choice 1": "If plan A is adopted, four of them will die.",
+		"choice 2": "If plan B is adopted, there is a one-third probability that none of them will die, and two-thirds probability that all six of them will die.",
+		"frame": "loss",
+		"opposite frame": "Q14"
+	},
+	"Q22": {
+		"context": "Imagine you recieve a letter from the president of a subsidiary describing a dilemma concerning whether to fight an impending patent violation suit or settle out of court that reads: If we do not agree to this proposal, PMG will file their suit. Going to court would involve the possibility of keeping the Duraplast line and incurring only a small sum for legal expenses. If we lose in court, we will incur $1,100,000 in damages. Our corporate lawyer, Mr. Bell, and our outside law firm agree that we have a 1 in 3 chance of winning the case.",
+		"choice 1": "Agree to the proposal (no lawsuit)",
+		"choice 2": "Disagree to the proposal: 1/3 chance of winning the case",
+		"frame": "gain",
+		"opposite frame": "Q4"
+	},
+	"Q23": {
+		"context": "Imagine that your country is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimate of the consequences of the programs are as follows:",
+		"choice 1": "If Program C is adopted 400 people will die. ",
+		"choice 2": "If Program D is adopted there is 1/3 probability that no one will die, and 2/3 probability that 600 people will die. ",
+		"frame": "loss",
+		"opposite frame": "Q11"
+	},
+	"Q24": {
+		"context": "You are staying in a hotel room on vacation. You turn on the TV and there is a movie on. After 5 minutes you are bored and the movie seems pretty bad. Would you continue to watch the movie or not?",
+		"choice 1": "Continue to watch",
+		"choice 2": "Turn it off",
+		"frame": "gain",
+		"opposite frame": "Q10"
+	},
+	"Q25": {
+		"context": "Imagine that six people are infected by a fatal disease. Two alternative medical plans to treat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the plans are as follows: ",
+		"choice 1": "If plan A is adopted, four people will die.",
+		"choice 2": "If plan B is adopted, there is a one-third probability that none of them will die, and two-thirds probability that all six people will die. ",
+		"frame": "loss",
+		"opposite frame": "Q36"
+	},
+	"Q26": {
+		"context": "Imagine that 6000 pieces of precious paintings in a world-famous museum are accidentally exposed to a disastrous chemical pollution. Two alternative plans to rescue these art treasures have been proposed. Assume that the exact estimates of the consequences of the plans made by scientists are as follows:",
+		"choice 1": "If plan A is adopted, 2000 pieces will be saved from the chemical pollution.",
+		"choice 2": "If plan B is adopted, there is a one-third probability that all the 6000 paintings will be saved, and two-thirds probability that none of these paintings will be saved.",
+		"frame": "gain",
+		"opposite frame": "Q2"
+	},
+	"Q27": {
+		"context": "Imagine that in one particular state it is projected that 1000 students will dropout of school during the year, two programs have been prosed to address this problem, but only one can be implemented. Based on other states experiences with programs, estimates of the outcomes that can be expected for each program can be made.",
+		"choice 1": "Program 1: 400 of the 1000 students will stay in school",
+		"choice 2": "Program 2: 2/5 chance that all 1000 students will stay in school and 3/5 chance that none of the 1000 will stay in school",
+		"frame": "gain",
+		"opposite frame": "Q7"
+	},
+	"Q28": {
+		"context": "Imagine that you have lung cancer and you must choose between two therapies: surgery and radiation. Surgery for lung cancer involves an operation on the lungs. Most patients are in the hospital for two or three weeks and have some pain around their incisions; they spend a month or so recuperating at home. After that, they generally feel fine. Radiation therapy for lung cancer involves the use of radiation to kill the tumor and requires coming to the hospital about four times a week for six weeks. Each treatment takes a few minutes and during the treatment, patients lie on a table as if they were having an x-ray. During the course of the treatment, some patients develop nausea and vomiting, but by the end of the six weeks they also generally feel fine. Thus, after the initial six or so weeks, patients treated with either surgery or radiation therapy feel about the same.",
+		"choice 1": "Surgery: Of 100 people having surgery, 10 die during surgery or the postoperative period, 32 die by the end of one year and 66 die by the end of five years.",
+		"choice 2": "Radiation Therapy: Of 100 people having radiation therapy, none die during treatment, 23 die by the end of one year and 78 die by the end of five years.",
+		"frame": "loss",
+		"opposite frame": "Q5"
+	},
+	"Q29": {
+		"context": "Imagine that you have decided to see a play and paid the admission price of $10 per ticket. As you enter the theatre you discover that you have lost the ticket. The seat was not marked and the ticket cannot be recovered.",
+		"choice 1": "Pay $10 for another ticket",
+		"choice 2": "Don't pay $10 for another ticket",
+		"frame": "loss",
+		"opposite frame": "Q12"
+	},
+	"Q30": {
+		"context": "Your are presented with the following report from the head of a special team assigned to investigate the prospects of a project in Arizona: Our new analysis indicates that, if we choose to compete with ATC, we would have the possibility of capturing a large market share. This would give us an after-tax return on investment of as much as 22%, while capturing a small market share would give us a return of only 10%. We estimate a 1 in 3 chance of getting a large market share. If we were to team up with ATC on the terms proposed, our return would be 14% after tax, with the same total investment.",
+		"choice 1": "Compete with ATC",
+		"choice 2": "Don't compete with ATC",
+		"frame": "gain",
+		"opposite frame": "Q15"
+	},
+	"Q31": {
+		"context": "A large car manufacturer has recently been hit with a number of economic difficulties and it appears as if three plants need to be closed and 6000 employees laid off. The vice-president of production has been exploring alternative ways to avoid this crisis and has developed two plans:",
+		"choice 1": "Plan A: This plan will save 1 plant and 2000 jobs",
+		"choice 2": "Plan B: : This plan has a 1/3 probability of saving all 3 plants and all 6000 jobs, but has a 2/3 probability of saving no plants and no jobs",
+		"frame": "gain",
+		"opposite frame": "Q3"
+	},
+	"Q32": {
+		"context": "Imagine that you are about to purchase a jacket for $15, and a calculator for $125. The calculator salesman informs you that the calculator you wish to buy is on sale for $120 at the other branch of the store, located 20 minutes drive away.",
+		"choice 1": "Make the trip to the other store and save 5 dollars but lose 20 minutes",
+		"choice 2": "Don't make the trip to the other store and save 20 minutes but lose 5 dollars",
+		"frame": "null",
+		"opposite frame": "Q20"
+	},
+	"Q33": {
+		"context": "A committee found a fish disease in a nearby lake. About 12 fish species (among them the most popular dining fish) have the Proliferative Kidney Disease (PKD). This is a chronically developing infectious disease which can have deadly consequences for the fish. Young fish are especially susceptible, while others seem to be immune against an infection. Experts suggest that PKD is one cause of declining fish catches. The researchers assume human activities and water pollution foster the spread of the disease. They are considering releasing more fish into the lake to control the epidemic. Imagine that you are a government official of the adjacent village.",
+		"choice 1": "Option C:  If the release of fish is implemented, 8 fish species will die.",
+		"choice 2": "Option D: If the release of fish is implemented, there is 2/3 probability that none of the 12 fish species will die, and 1/3 probability that all of the 12 fish species will die.",
+		"frame": "loss",
+		"opposite frame": "Q16"
+	},
+	"Q34": {
+		"context": "Imagine that you brought $6000 worth of stock from a company that has just filed a claim for bankruptcy recently. The company now provides you with two alternatives to recover some of your money.",
+		"choice 1": "You will lose $4000 of your money",
+		"choice 2": "You will take part in a random drawing procedure with exactly a two-thirds probability of losing $6000 all of your money, and one-third probability of not losing any of your money",
+		"frame": "loss",
+		"opposite frame": "Q6"
+	},
+	"Q35": {
+		"context": "Imagine a refinery that processes petroleum products. An investigation found that due to tank leaks, both soil and drinking water became contaminated. Due to this contamination 720 children from the adjacent village have a fatal disease. There is agreement among experts that children will not suffer health problems, provided they have a strong immune system. Otherwise, it is likely that children will have serious health problems. A vaccine against this disease has been developed and tested. However, the vaccine sometimes can cause side effects that can be fatal too. You are an environmental activist with much influence on the local hospital and you have to decide if you want to lobby for the vaccination or not.",
+		"choice 1": "Option A:  If the vaccination is adopted, the health of 240 children will be saved for sure.",
+		"choice 2": "Option B: If the vaccination is adopted, there is a one-third probability that the health of all of the 720 children will be saved, and a two-thirds probability that the health of none of them will be saved.",
+		"frame": "gain",
+		"opposite frame": "Q17"
+	},
+	"Q36": {
+		"context": "Imagine that six people are infected by a fatal disease. Two alternative medical plans to treat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the plans are as follows: ",
+		"choice 1": "If plan A is adopted, two people will be saved.",
+		"choice 2": "If plan B is adopted, there is a one-third probability that all six people will be saved, and two-thirds probability that none of them will be saved. ",
+		"frame": "gain",
+		"opposite frame": "Q25"
+	}
+}

@@ -1,0 +1,1763 @@
+{
+  "Tversky1981": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.28,
+      0.78
+    ],
+    "participants": [
+      152,
+      155
+    ],
+    "category": 1
+  },
+  "Reyna1991": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.53,
+      0.81
+    ],
+    "participants": [
+      36,
+      36
+    ],
+    "category": 1
+  },
+  "Tindale1993": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.42,
+      0.79
+    ],
+    "participants": [
+      144,
+      144
+    ],
+    "category": 1
+  },
+  "Wang1995": {
+    "context": "Imagine that 600 people are infected by a fatal disease. Two alternative medical plans to treat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the plans are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 people will be saved, and 2/3 probability that none of them will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that none of them will die, and 2/3 probability that all 600 people will die"
+    ],
+    "risky choice probability": [
+      0.40,
+      0.68
+    ],
+    "participants": [
+      50,
+      50
+    ],
+    "category": 1
+  },
+  "Highhouse1996": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved.",
+      "1/3 probability 600 people will be saved, 2/3 probability that nobody will be saved"
+    ],
+    "loss frame": [
+      "400 people will die.",
+      "1/3 probability that nobody will die, 2/3 probability that 600 people will die"
+    ],
+    "risky choice probability": [
+      0.29,
+      0.74
+    ],
+    "participants": [
+      122,
+      122
+    ],
+    "category": 1
+  },
+  "Wang1996": {
+    "context": "Imagine that 600 people are infected by a fatal disease. Two alternative medical plans to treat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the plans are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 people will be saved, and 2/3 probability that none of them will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that none of them will die, and 2/3 probability that all 600 people will die"
+    ],
+    "risky choice probability": [
+      0.42,
+      0.77
+    ],
+    "participants": [
+      31,
+      34
+    ],
+    "category": 1
+  },
+  "Stanovich1998": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.32,
+      0.65
+    ],
+    "participants": [
+      148,
+      144
+    ],
+    "category": 1
+  },
+  "Druckman2001a": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.32,
+      0.77
+    ],
+    "participants": [
+      50,
+      55
+    ],
+    "category": 1
+  },
+  "Druckman2001b": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.32,
+      0.76
+    ],
+    "participants": [
+      69,
+      79
+    ],
+    "category": 1
+  },
+  "Mayhorn2002young": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.24,
+      0.86
+    ],
+    "participants": [
+      29,
+      29
+    ],
+    "category": 1
+  },
+  "Mayhorn2002old": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.21,
+      0.69
+    ],
+    "participants": [
+      29,
+      29
+    ],
+    "category": 1
+  },
+  "LeBoeuf2003exp1": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.24,
+      0.56
+    ],
+    "participants": [
+      48,
+      55
+    ],
+    "category": 1
+  },
+  "LeBoeuf2003exp2": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.25,
+      0.57
+    ],
+    "participants": [
+      147,
+      146
+    ],
+    "category": 1
+  },
+  "Stein2012": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.43,
+      0.68
+    ],
+    "participants": [
+      47,
+      57
+    ],
+    "category": 1
+  },
+  "Takemura1994": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.2,
+      0.69
+    ],
+    "participants": [
+      45,
+      45
+    ],
+    "category": 2
+  },
+  "Mandel2001": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.54,
+      0.85
+    ],
+    "participants": [
+      26,
+      26
+    ],
+    "category": 2
+  },
+  "Fischer2008": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.36,
+      0.77
+    ],
+    "participants": [
+      17,
+      17
+    ],
+    "category": 2
+  },
+  "Zhang2008#1": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.66,
+      0.87
+    ],
+    "participants": [
+      65,
+      68
+    ],
+    "category": 2
+  },
+  "Zhang2008#2": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.67,
+      0.88
+    ],
+    "participants": [
+      45,
+      48
+    ],
+    "category": 2
+  },
+  "Zhang2008Military": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.54,
+      0.83
+    ],
+    "participants": [
+      134,
+      130
+    ],
+    "category": 2
+  },
+  "Zhang2008Civilian": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.65,
+      0.9
+    ],
+    "participants": [
+      60,
+      58
+    ],
+    "category": 2
+  },
+  "Haerem2011": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.59,
+      0.73
+    ],
+    "participants": [
+      29,
+      26
+    ],
+    "category": 2
+  },
+  "Okder2012": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.37,
+      0.76
+    ],
+    "participants": [
+      52,
+      53
+    ],
+    "category": 2
+  },
+  "Kuhberger2013#1": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.32,
+      0.68
+    ],
+    "participants": [
+      63,
+      63
+    ],
+    "category": 2
+  },
+  "Kuhberger2013#2": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.57,
+      0.73
+    ],
+    "participants": [
+      14,
+      15
+    ],
+    "category": 2
+  },
+  "Mandel2014#2": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.42,
+      0.74
+    ],
+    "participants": [
+      38,
+      38
+    ],
+    "category": 2
+  },
+  "Mandel2014#3": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.32,
+      0.8
+    ],
+    "participants": [
+      25,
+      25
+    ],
+    "category": 2
+  },
+  "Stanovich1998G2": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.32,
+      0.54
+    ],
+    "participants": [
+      292,
+      292
+    ],
+    "category": 3
+  },
+  "Levin2002": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.28,
+      0.56
+    ],
+    "participants": [
+      102,
+      102
+    ],
+    "category": 3
+  },
+  "Leboeuf2003": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.25,
+      0.46
+    ],
+    "participants": [
+      287,
+      287
+    ],
+    "category": 3
+  },
+  "Fagley1990#1": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.51,
+      0.7
+    ],
+    "participants": [
+      94,
+      96
+    ],
+    "category": 4
+  },
+  "Fagley1990#2": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.39,
+      0.73
+    ],
+    "participants": [
+      54,
+      55
+    ],
+    "category": 4
+  },
+  "Miller1991": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.43,
+      0.67
+    ],
+    "participants": [
+      23,
+      23
+    ],
+    "category": 4
+  },
+  "Jou1996": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.35,
+      0.8
+    ],
+    "participants": [
+      80,
+      80
+    ],
+    "category": 4
+  },
+  "Ronnlund2005Young": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.41,
+      0.69
+    ],
+    "participants": [
+      32,
+      32
+    ],
+    "category": 4
+  },
+  "Ronnlund2005Old": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.28,
+      0.56
+    ],
+    "participants": [
+      32,
+      32
+    ],
+    "category": 4
+  },
+  "Kuhberger1995#1": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.48,
+      0.78
+    ],
+    "participants": [
+      25,
+      23
+    ],
+    "category": 5
+  },
+  "Kuhberger1995#2": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.56,
+      0.57
+    ],
+    "participants": [
+      16,
+      14
+    ],
+    "category": 5
+  },
+  "Druckman2008": {
+    "context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+    "gain frame": [
+      "200 people will be saved",
+      "1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+    ],
+    "loss frame": [
+      "400 people will die",
+      "1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+    ],
+    "risky choice probability": [
+      0.45,
+      0.67
+    ],
+    "participants": [
+      101,
+      113
+    ],
+    "category": 5
+  },
+  	"Conlisk1989": {
+		"context": "If you had the choice, which would your prefer, Lottery A or Lottery B?",
+		"gain frame": [
+			"100% chance of $1000000 million",
+			"1% chance of nothing, 89% chance of $1000000 and 10% chance of $5000000"
+		],
+		"loss frame": [
+			"89% chance of nothing and 11% chance of $1000000 million",
+			"90% chance of nothing and 10% chance of $5000000 million"
+		],
+		"risky choice probability": [
+			0.49,
+			0.86
+		],
+		"participants": [
+			236,
+			236
+		],
+		"category": 6
+	},
+	"Carlin1990": {
+		"context": "If you had the choice, which would your prefer, Lottery A or Lottery B?",
+		"gain frame": [
+			"100% chance of $1 million",
+			"1% chance of nothing, 89% chance of $1 million and 10% chance of $5 million"
+		],
+		"loss frame": [
+			"89% chance of nothing and 11% chance of $1 million",
+			"90% chance of nothing and 10% chance of $5 million"
+		],
+		"risky choice probability": [
+			0.40,
+			0.78
+		],
+		"participants": [
+			65,
+			65
+		],
+		"category": 6
+	},
+	"Husk&Miller2012": {
+		"context": "If you had the choice, which would your prefer, Lottery A or Lottery B?",
+		"gain frame": [
+			"100% chance of $1000000",
+			"1% chance of nothing, 89% chance of $1000000 and 10% chance of $5000000"
+		],
+		"loss frame": [
+			"89% chance of nothing and 11% chance of $1000000",
+			"90% chance of nothing and 10% chance of $5000000"
+		],
+		"risky choice probability": [
+			0.66,
+			0.87
+		],
+		"participants": [
+			70,
+			70
+		],
+		"category": 7
+	},
+	"Reyna2014College": {
+		"context": " Imagine that the United States is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Please indicate which option you prefer",
+		"gain frame": [
+			"200 people saved for sure",
+			"1/3 probability 600 people saved and 2/3 probability no one saved"
+		],
+		"loss frame": [
+			"400 people die for sure",
+			"2/3 probability 600 people die and 1/3 probability no one dies"
+		],
+		"risky choice probability": [
+			0.35,
+			0.55
+		],
+		"participants": [
+			63,
+			63
+		],
+		"category": 8
+	},
+	"Reyna2014Adult": {
+		"context": " Imagine that the United States is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Please indicate which option you prefer",
+		"gain frame": [
+			"200 people saved for sure",
+			"1/3 probability 600 people saved and 2/3 probability no one saved"
+		],
+		"loss frame": [
+			"400 people die for sure",
+			"2/3 probability 600 people die and 1/3 probability no one dies"
+		],
+		"risky choice probability": [
+			0.40,
+			0.60
+		],
+		"participants": [
+			54,
+			54
+		],
+		"category": 8
+	},
+	"Reyna2014Expert": {
+		"context": " Imagine that the United States is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Please indicate which option you prefer",
+		"gain frame": [
+			"200 people saved for sure",
+			"1/3 probability 600 people saved and 2/3 probability no one saved"
+		],
+		"loss frame": [
+			"400 people die for sure",
+			"2/3 probability 600 people die and 1/3 probability no one dies"
+		],
+		"risky choice probability": [
+			0.38,
+			0.71
+		],
+		"participants": [
+			36,
+			36
+		],
+		"category": 8
+	},
+	"KuhbergerPlant1": {
+		"context": "A large car manufacturer was stated to be in serious econmic difficulties with 12000 employees at stake. The two possible plans were:",
+		"gain frame": [
+			"Plan A: This plan will save 1 plant and 4000 jobs",
+			"Plan B: : This plan has a one-thirds probability of saving all 3 plants and all 12000 jobs, but has a two-thirds probability of saving no plants and jobs"
+		],
+		"loss frame": [
+			"Plan C: This plan will result in the loss of 2 plants and 8000 jobs.",
+			"Plan D: This plan has a two-thirds probability of resulting in the loss of 3 plants and all 12000 jobs, but has a one-thirds probability of losing no plants and jobs"
+		],
+		"risky choice probability": [
+			0.52,
+			0.83
+		],
+		"participants": [
+			25,
+			24
+		],
+		"category": 9
+	},
+	"Kuhberger1995Cancer1": {
+		"context": "Two cancer treatments have been developed which will be applied to a population of 1000 people",
+		"gain frame": [
+			"If treatment A is adopted, 800 people who get cancer will be saved",
+			"If treatment B is adopted, there is a 4/5 chance that all 1000 people who get cancer will be saved and a 1/5 chance that nobody will be saved"
+		],
+		"loss frame": [
+			"If treatment A is adopted, 200 people who get cancer will die",
+			"If treatment B is adopted, there is a 4/5 chance that nobody will die and 1/5 chance that all 1000 people will die"
+		],
+		"risky choice probability": [
+			0.38,
+			0.48
+		],
+		"participants": [
+			24,
+			25
+		],
+		"category": 9
+	},
+	"KuhbergerPlant2": {
+		"context": "A large car manufacturer was stated to be in serious econmic difficulties with employees at stake. The two possible plans were:",
+		"gain frame": [
+			"Plan A: This plan will save 1 plant and 4000 jobs",
+			"Plan B: : This plan has a one-thirds probability of saving all 3 plants and all 12000 jobs, but has a two-thirds probability of saving no plants and jobs"
+		],
+		"loss frame": [
+			"Plan C: This plan will result in the loss of 2 plants and 8000 jobs.",
+			"Plan D: This plan has a two-thirds probability of resulting in the loss of 3 plants and all 12000 jobs, but has a one-thirds probability of losing no plants and jobs"
+		],
+		"risky choice probability": [
+			0.19,
+			0.71
+		],
+		"participants": [
+			16,
+			17
+		],
+		"category": 9
+	},
+	"Kuhberger1995Cancer2": {
+		"context": "Two cancer treatments have been developed which will be applied to a population",
+		"gain frame": [
+			"If treatment A is adopted, 800 people who get cancer will be saved",
+			"If treatment B is adopted, there is a 4/5 chance that all 1000 people who get cancer will be saved and a 1/5 chance that nobody will be saved"
+		],
+		"loss frame": [
+			"If treatment A is adopted, 200 people who get cancer will die",
+			"If treatment B is adopted, there is a 4/5 chance that nobody will die and 1/5 chance that all 1000 people will die"
+		],
+		"risky choice probability": [
+			0.69,
+			0.64
+		],
+		"participants": [
+			16,
+			14
+		],
+		"category": 9
+	},
+	"Kuhberger2010Water": {
+		"context": "Imagine a refinery that processes petroleum products. An investigation found that due to tank leaks, both soil and drinking water became contaminated. Due to this contamination 720 children from the adjacent village have a fatal disease. There is agreement among experts that children will not suffer health problems, provided they have a strong immune system. Otherwise, it is likely that children will have serious health problems. A vaccine against this disease has been developedand tested. However, the vaccine sometimes can cause side effects that can be fatal too. You are an environmental activist with much influence on the local hospital and you have to decide if you want to lobby for the vaccination or not. Which of the options would you favor? Assume that the estimates are as follows.",
+		"gain frame": [
+			"If the vaccination is adopted, the health of 240 children will be saved for sure",
+			"If no vaccination is adopted,there is a one-third probability that the health of all of the 720 children will be saved, and a two-thirds probability that the health of none of them will be saved"
+		],
+		"loss frame": [
+			"If the vaccination is adopted, the health of 480 children will be damaged for sure.",
+			"If no vaccination is adopted, there is a one-third probability that the health of none of the children will be damaged, and a two-thirds probability that the health of all 720 children will be damaged."
+		],
+		"risky choice probability": [
+			0.33,
+			0.73
+		],
+		"participants": [
+			93,
+			93
+		],
+		"category": 10
+	},
+	"Kuhberger2010Crops": {
+		"context": "Some years ago, in the village where you live, the farmers adopted eight new genetically engineered crops to save costs. According to the experts, there are concerns that the population of 9 species of beneficial insects have already decreased dramatically and could even become extinct. One of the reasons may be that the insects eat pollen from genetically modified corn. The local government is considering enacting a law that should limit the use of genetically engineered crops from eight to two. As an influential member of the government, you can lobby for this law or not. Assume that the exact scientific estimates of the consequences are as follows.",
+		"gain frame": [
+			"If the law is enacted, 3 insect species will be saved.",
+			"If the law is not enacted, there is a one-third probability that all 9 insect species will be saved, and a two-thirds probability that none of the species will be saved."
+		],
+		"loss frame": [
+			"If the law is enacted, 6 insect species will become extinct.",
+			"If the law is not enacted, there is a one-third probability that none of insect species will become extinct, and a two-thirds probability that all 9 of them will become extinct due to other reasons."
+		],
+		"risky choice probability": [
+			0.33,
+			0.59
+		],
+		"participants": [
+			93,
+			93
+		],
+		"category": 10
+	},
+	"Kuhberger2010Fish": {
+		"context": "A committee found a ﬁsh disease in a nearby lake. About 12 ﬁsh species (among them the most populardining ﬁsh) have the Proliferative Kidney Disease (PKD). This is a chronically developing infectiousdisease which can have deadly consequences for the ﬁsh. Young ﬁsh are especially susceptible, whileothers seem to be immune against an infection. Experts suggest that PKD is one cause of declining ﬁshcatches. The researchers assume human activities and water pollution foster the spread of the disease.They are considering releasing more ﬁsh into the lake to control the epidemic. Imagine that you are agovernment ofﬁcial of the adjacent village. Which of the following options would you favor? Assume thatthe estimates are as follows",
+		"gain frame": [
+			"Option A: If the release of ﬁsh is implemented, 4 ﬁsh species will survive",
+			"Option B: If the release of ﬁsh is implemented, there is 1/3 probability that all of the 12 ﬁsh species will survive, and 2/3 probability that none of them will survive"
+		],
+		"loss frame": [
+			"Option C: If the release of ﬁsh is implemented, 8 ﬁsh species will die",
+			"Option D: If the release of fish is implemented, there is 2/3 probability that all of the 12 fish species will die, there is 1/3 probability that none of the fish species will die"
+		],
+		"risky choice probability": [
+			0.28,
+			0.59
+		],
+		"participants": [
+			93,
+			93
+		],
+		"category": 10
+	},
+	"Kuhberger2010Endangered": {
+		"context": "An investigation revealed that 600 trees of an old-growth forest (some of these trees are over 500 years old) are endangered. Due to acid rain, the trees have become very susceptible to a specific kind of pest which threatens the trees. The experts agree that some of the trees are strong enough to survive, while others will have to be cut down. You are the head of the forest management office, and it is in your power to decide if a treatment aimed at reducing the pest and to save the trees should be implemented or not. Which option would you favor? Assume that the characteristics of the options are as follows",
+		"gain frame": [
+			"Option A: If you support the treatment, 200 trees will be saved",
+			"Option B: If the treatment is adopted, there is a 1/3 probability that all 600 trees will be saved, and a 2/3 probability that none of them will be saved"
+		],
+		"loss frame": [
+			"Option C: If you support the treatment, 400 trees will die",
+			"Option D: If the treatment is adopted, there is a 1/3 probability that none of the trees will die, and a 2/3 probability that all 600 of them will die."
+		],
+		"risky choice probability": [
+			0.24,
+			0.55
+		],
+		"participants": [
+			93,
+			93
+		],
+		"category": 10
+	},
+	"Reyna1991Zero": {
+		"context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+		"gain frame": [
+			"200 people will be saved",
+			"2/3 probability that no one will be saved"
+		],
+		"loss frame": [
+			"400 people will die",
+			"1/3 probability no one will die"
+		],
+		"risky choice probability": [
+			0.51,
+			0.58
+		],
+		"participants": [
+			35,
+			36
+		],
+		"category": 11
+	},
+	"Mandel#1Zero": {
+		"context": "In a war-torn region, the lives of 600 stranded people are at stake. Two response plans with the following outcomes have been proposed.",
+		"gain frame": [
+			"If Plan A is adopted, it is certain that 200 people will be saved",
+			"If Plan B is adopted, there is a two-thirds probability that no one people will be saved"
+		],
+		"loss frame": [
+			"If Plan A is adopted, it is certain that 400 people will die.",
+			"If Plan B is adopted, there is a one-third probability that no one people will not die."
+		],
+		"risky choice probability": [
+			0.48,
+			0.72
+		],
+		"participants": [
+			23,
+			25
+		],
+		"category": 11
+	},
+	"Mandel#2Zero": {
+		"context": "In a war-torn region, the lives of 600 stranded people are at stake. Two response plans with the following outcomes have been proposed.",
+		"gain frame": [
+			"If Plan A is adopted, it is certain that 200 people will be saved",
+			"If Plan B is adopted, there is a two-thirds probability that no one people will be saved"
+		],
+		"loss frame": [
+			"If Plan A is adopted, it is certain that 400 people will die.",
+			"If Plan B is adopted, there is a one-third probability that no one people will not die."
+		],
+		"risky choice probability": [
+			0.64,
+			0.63
+		],
+		"participants": [
+			36,
+			38
+		],
+		"category": 11
+	},
+	"Kuhberger2010WaterZero": {
+		"context": "Imagine a refinery that processes petroleum products. An investigation found that due to tank leaks, both soil and drinking water became contaminated. Due to this contamination 720 children from the adjacent village have a fatal disease. There is agreement among experts that children will not suffer health problems, provided they have a strong immune system. Otherwise, it is likely that children will have serious health problems. A vaccine against this disease has been developedand tested. However, the vaccine sometimes can cause side effects that can be fatal too. You are an environmental activist with much influence on the local hospital and you have to decide if you want to lobby for the vaccination or not. Which of the options would you favor? Assume that the estimates are as follows.",
+		"gain frame": [
+			"If the vaccination is adopted, the health of 240 children will be saved for sure",
+			"If no vaccinationis adopted,there is a two-third probability that the health of none of the children will be saved"
+		],
+		"loss frame": [
+			"If the vaccination is adopted, the health of 480 children will be damaged for sure.",
+			"If no vaccination is adopted, one-thirds probability that the health of none of them will be damaged"
+		],
+		"risky choice probability": [
+			0.53,
+			0.65
+		],
+		"participants": [
+			93,
+			93
+		],
+		"category": 12
+	},
+	"Kuhberger2010CropsZero": {
+		"context": "Some years ago, in the village where you live, the farmers adopted eight new genetically engineered crops to save costs. According to the experts, there are concerns that the population of 9 species of beneficial insects have already decreased dramatically and could even become extinct. One of the reasons may be that the insects eat pollen from genetically modified corn. The local government is considering enacting a law that should limit the use of genetically engineered crops from eight to two. As an influential member of the government, you can lobby for this law or not. Assume that the exact scientific estimates of the consequences are as follows.",
+		"gain frame": [
+			"If the law is enacted, 3 insect species will be saved.",
+			"If the law is not enacted, there is a two-third probability that none of the insect species will be saved"
+		],
+		"loss frame": [
+			"If the law is enacted, 6 insect species will become extinct.",
+			"If the law is not enacted, there is a one-thirds probability that none of the insect species will become extinct"
+		],
+		"risky choice probability": [
+			0.54,
+			0.43
+		],
+		"participants": [
+			93,
+			93
+		],
+		"category": 12
+	},
+	"Kuhberger2010FishZero": {
+		"context": "A committee found a ﬁsh disease in a nearby lake. About 12 ﬁsh species (among them the most populardining ﬁsh) have the Proliferative Kidney Disease (PKD). This is a chronically developing infectiousdisease which can have deadly consequences for the ﬁsh. Young ﬁsh are especially susceptible, whileothers seem to be immune against an infection. Experts suggest that PKD is one cause of declining ﬁshcatches. The researchers assume human activities and water pollution foster the spread of the disease.They are considering releasing more ﬁsh into the lake to control the epidemic. Imagine that you are agovernment ofﬁcial of the adjacent village. Which of the following options would you favor? Assume thatthe estimates are as follows",
+		"gain frame": [
+			"Option A: If the release of ﬁsh is implemented, 4 ﬁsh species will survive",
+			"Option B: If the release of ﬁsh is implemented, there is 2/3 probability that none of the ﬁsh species will survive"
+		],
+		"loss frame": [
+			"Option C: If the release of ﬁsh is implemented, 8 ﬁsh species will die",
+			"Option D: If the release of ﬁsh is implemented, 1/3 probability that none of the ﬁsh species will die"
+		],
+		"risky choice probability": [
+			0.63,
+			0.43
+		],
+		"participants": [
+			93,
+			93
+		],
+		"category": 12
+	},
+	"Kuhberger2010EndangeredZero": {
+		"context": "An investigation revealed that 600 trees of an old-growth forest (some of these trees are over 500 years old) are endangered. Due to acid rain, the trees have become very susceptible to a specific kind of pest which threatens the trees. The experts agree that some of the trees are strong enough to survive, while others will have to be cut down. You are the head of the forest management office, and it is in your power to decide if a treatment aimed at reducing the pest and to save the trees should be implemented or not. Which option would you favor? Assume that the characteristics of the options are as follows",
+		"gain frame": [
+			"Option A: If you support the treatment, 200 trees will be saved",
+			"Option B: If the treatment is adopted, there is a 2/3 probability that no trees will be saved"
+		],
+		"loss frame": [
+			"Option C: If you support the treatment, 400 trees will die",
+			"Option D: If the treatment is adopted and a 1/3 probability that none of them will die."
+		],
+		"risky choice probability": [
+			0.40,
+			0.43
+		],
+		"participants": [
+			93,
+			93
+		],
+		"category": 12
+	},
+	"Reyna2014CollegeZero": {
+		"context": " Imagine that the United States is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Please indicate which option you prefer",
+		"gain frame": [
+			"200 people saved for sure",
+			"2/3 probability no one saved"
+		],
+		"loss frame": [
+			"400 people die for sure",
+			"1/3 probability no one dies"
+		],
+		"risky choice probability": [
+			0.43,
+			0.49
+		],
+		"participants": [
+			63,
+			63
+		],
+		"category": 12
+	},
+	"Reyna2014AdultZero": {
+		"context": " Imagine that the United States is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Please indicate which option you prefer",
+		"gain frame": [
+			"200 people saved for sure",
+			"2/3 probability no one saved"
+		],
+		"loss frame": [
+			"400 people die for sure",
+			"1/3 probability no one dies"
+		],
+		"risky choice probability": [
+			0.51,
+			0.66
+		],
+		"participants": [
+			54,
+			54
+		],
+		"category": 12
+	},
+	"Reyna2014ExpertZero": {
+		"context": " Imagine that the United States is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Please indicate which option you prefer",
+		"gain frame": [
+			"200 people saved for sure",
+			"2/3 probability no one saved"
+		],
+		"loss frame": [
+			"400 people die for sure",
+			"1/3 probability no one dies"
+		],
+		"risky choice probability": [
+			0.52,
+			0.62
+		],
+		"participants": [
+			36,
+			36
+		],
+		"category": 12
+	},
+	"Reyna1991NonZero": {
+		"context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+		"gain frame": [
+			"200 people will be saved",
+			"1/3 probability that all 600 lives will be saved"
+		],
+		"loss frame": [
+			"400 people will die",
+			"2/3 probability that all 600 will die"
+		],
+		"risky choice probability": [
+			0.26,
+			0.81
+		],
+		"participants": [
+			35,
+			37
+		],
+		"category": 13
+	},
+	"Reyna2014CollegeNonZero": {
+		"context": " Imagine that the United States is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Please indicate which option you prefer",
+		"gain frame": [
+			"200 people saved for sure",
+			"1/3 probability 600 people saved"
+		],
+		"loss frame": [
+			"400 people die for sure",
+			"2/3 probability 600 people die"
+		],
+		"risky choice probability": [
+			0.23,
+			0.60
+		],
+		"participants": [
+			63,
+			63
+		],
+		"category": 14
+	},
+	"Reyna2014AdultNonZero": {
+		"context": " Imagine that the United States is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Please indicate which option you prefer",
+		"gain frame": [
+			"200 people saved for sure",
+			"1/3 probability 600 people saved"
+		],
+		"loss frame": [
+			"400 people die for sure",
+			"2/3 probability 600 people die"
+		],
+		"risky choice probability": [
+			0.26,
+			0.73
+		],
+		"participants": [
+			54,
+			54
+		],
+		"category": 14
+	},
+	"Reyna2014ExpertNonZero": {
+		"context": " Imagine that the United States is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Please indicate which option you prefer",
+		"gain frame": [
+			"200 people saved for sure",
+			"1/3 probability 600 people saved"
+		],
+		"loss frame": [
+			"400 people die for sure",
+			"2/3 probability 600 people die"
+		],
+		"risky choice probability": [
+			0.20,
+			0.81
+		],
+		"participants": [
+			36,
+			36
+		],
+		"category": 14
+	},
+	"Kuhberger2010WaterNonZero": {
+		"context": "Imagine a refinery that processes petroleum products. An investigation found that due to tank leaks, both soil and drinking water became contaminated. Due to this contamination 720 children from the adjacent village have a fatal disease. There is agreement among experts that children will not suffer health problems, provided they have a strong immune system. Otherwise, it is likely that children will have serious health problems. A vaccine against this disease has been developedand tested. However, the vaccine sometimes can cause side effects that can be fatal too. You are an environmental activist with much influence on the local hospital and you have to decide if you want to lobby for the vaccination or not. Which of the options would you favor? Assume that the estimates are as follows.",
+		"gain frame": [
+			"If the vaccination is adopted, the health of 240 people will be saved for sure",
+			"If no vaccination is adopted, there is a one-third probability that the health of all of the 720 people will be saved"
+		],
+		"loss frame": [
+			"If the vaccination is adopted, the health of 480 people will die.",
+			"If no vaccination is adopted, two-thirds probability that the health of all 720 people will die."
+		],
+		"risky choice probability": [
+			0.25,
+			0.85
+		],
+		"participants": [
+			93,
+			93
+		],
+		"category": 15
+	},
+	"Kuhberger2010CropsNonZero": {
+		"context": "Some years ago, in the village where you live, the farmers adopted eight new genetically engineered crops to save costs. According to the experts, there are concerns that the population of 9 species of beneficial insects have already decreased dramatically and could even become extinct. One of the reasons may be that the insects eat pollen from genetically modified corn. The local government is considering enacting a law that should limit the use of genetically engineered crops from eight to two. As an influential member of the government, you can lobby for this law or not. Assume that the exact scientific estimates of the consequences are as follows.",
+		"gain frame": [
+			"If the law is enacted, 3 insect species will be saved.",
+			"If the law is not enacted, there is a one-third probability that all 9 insect species will be saved."
+		],
+		"loss frame": [
+			"If the law is enacted, 6 insect species will become extinct.",
+			"If the law is not enacted, two-thirds probability that all 9 of them will become extinct due to other reasons."
+		],
+		"risky choice probability": [
+			0.29,
+			0.78
+		],
+		"participants": [
+			93,
+			93
+		],
+		"category": 15
+	},
+	"Kuhberger2010FishNonZero": {
+		"context": "A committee found a ﬁsh disease in a nearby lake. About 12 ﬁsh species (among them the most populardining ﬁsh) have the Proliferative Kidney Disease (PKD). This is a chronically developing infectiousdisease which can have deadly consequences for the ﬁsh. Young ﬁsh are especially susceptible, whileothers seem to be immune against an infection. Experts suggest that PKD is one cause of declining ﬁshcatches. The researchers assume human activities and water pollution foster the spread of the disease.They are considering releasing more ﬁsh into the lake to control the epidemic. Imagine that you are agovernment ofﬁcial of the adjacent village. Which of the following options would you favor? Assume thatthe estimates are as follows",
+		"gain frame": [
+			"Option A: If the release of ﬁsh is implemented, 4 ﬁsh species will survive",
+			"Option B: If the release of ﬁsh is implemented, there is 1/3 probability that all of the 12 ﬁsh species will survive"
+		],
+		"loss frame": [
+			"Option C: If the release of ﬁsh is implemented, 8 ﬁsh species will die",
+			"Option D: If the release of fish is implemented, there is 2/3 probability that all of the 12 fish species will die"
+		],
+		"risky choice probability": [
+			0.22,
+			0.83
+		],
+		"participants": [
+			93,
+			93
+		],
+		"category": 15
+	},
+	"Kuhberger2010EndangeredNonZero": {
+		"context": "An investigation revealed that 600 trees of an old-growth forest (some of these trees are over 500 years old) are endangered. Due to acid rain, the trees have become very susceptible to a specific kind of pest which threatens the trees. The experts agree that some of the trees are strong enough to survive, while others will have to be cut down. You are the head of the forest management office, and it is in your power to decide if a treatment aimed at reducing the pest and to save the trees should be implemented or not. Which option would you favor? Assume that the characteristics of the options are as follows",
+		"gain frame": [
+			"Option A: If you support the treatment, 200 trees will be saved",
+			"Option B: If the treatment is adopted, there is a 1/3 probability that all 600 trees will be saved"
+		],
+		"loss frame": [
+			"Option C: If you support the treatment, 400 trees will die",
+			"Option D: If the treatment is adopted, there is a 2/3 probability that all 600 of them will die."
+		],
+		"risky choice probability": [
+			0.15,
+			0.65
+		],
+		"participants": [
+			93,
+			93
+		],
+		"category": 15
+	},
+	"Mandel2001#1Certain": {
+		"context": "In a war-torn region, the lives of 600 stranded people are at stake. Two response plans with the following outcomes have been proposed.",
+		"gain frame": [
+			"If Plan A is adopted, it is certain that 200 people will be saved but it is also certain that 400 people will die.",
+			"If Plan B is adopted, there is a 1/3 probability that all 600 people will be saved but there is also a 2/3 probability that all 600 people will die."
+		],
+		"loss frame": [
+			"If Plan A is adopted, it is certain that 400 people will die but it is also certain that 200 people will be saved.",
+			"If Plan B is adopted, there is a 2/3 probability that all 600 people will die but there is also a 1/3 probability that all 600 people will be saved."
+		],
+		"risky choice probability": [
+			0.52,
+			0.50
+		],
+		"participants": [
+			23,
+			22
+		],
+		"category": 16
+	},
+	"Mandel2014#3Certain": {
+		"context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+		"gain frame": [
+			"If Plan A is adopted, it is certain that 200 people will be saved (and 400 people will not be saved).",
+			"If Plan B is adopted, there is a 1/3 probability that all 600 will be saved (and a 2/3 probability that nobody will be saved)."
+		],
+		"loss frame": [
+			"If Plan A is adopted, it is certain that 400 people will die but it is also certain that 200 people will be saved.",
+			"If Plan B is adopted, there is a 2/3 probability that all 600 people will die but there is also a 1/3 probability that all 600 people will be saved."
+		],
+		"risky choice probability": [
+			0.41,
+			0.50
+		],
+		"participants": [
+			22,
+			24
+		],
+		"category": 16
+	},
+	"KuhbergerADP1Certain": {
+		"context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+		"gain frame": [
+			"200 people will be saved and 400 people will not be saved",
+			"1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+		],
+		"loss frame": [
+			"400 people will die and 200 people will not die",
+			"1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+		],
+		"risky choice probability": [
+			0.62,
+			0.57
+		],
+		"participants": [
+			26,
+			23
+		],
+		"category": 17
+	},
+	"KuhbergerPlant1Certain": {
+		"context": "A large car manufacturer was stated to be in serious econmic difficulties with 12000 employees at stake. The two possible plans were:",
+		"gain frame": [
+			"Plan A: This plan will save 1 plant and 4000 jobs but 8000 jobs and 3 plants with not be saved",
+			"Plan B: : This plan has a 1/3 probability of saving all 3 plants and all 12000 jobs, but has a 2/3 probability of saving no plants and jobs"
+		],
+		"loss frame": [
+			"Plan C: This plan will result in the loss of 2 plants and 8000 jobs but 1 plant and 4000 jobs will not be lost.",
+			"Plan D: This plan has a 2/3 probability of resulting in the loss of 3 plants and all 12000 jobs, but has a 1/3 probability of losing no plants and jobs"
+		],
+		"risky choice probability": [
+			0.46,
+			0.52
+		],
+		"participants": [
+			26,
+			23
+		],
+		"category": 17
+	},
+	"Kuhberger1995Cancer1Certain": {
+		"context": "Two cancer treatments have been developed which will be applied to a population of 1000 people",
+		"gain frame": [
+			"If treatment A is adopted, 800 people who get cancer will be saved and 200 people will not be saved",
+			"If treatment B is adopted, there is a 4/5 chance that all 1000 people who get cancer will be saved and a 1/5 chance that nobody will be saved"
+		],
+		"loss frame": [
+			"If treatment A is adopted, 200 people who get cancer will die and 800 people will not die",
+			"If treatment B is adopted, there is a 4/5 chance that nobody will die and 1/5 chance that all 1000 people will die"
+		],
+		"risky choice probability": [
+			0.50,
+			0.35
+		],
+		"participants": [
+			24,
+			23
+		],
+		"category": 17
+	},
+	"KuhbergerADP2Certain": {
+		"context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill some people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+		"gain frame": [
+			"200 people will be saved and 400 people will not be saved",
+			"1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+		],
+		"loss frame": [
+			"400 people will die and 200 people will not die",
+			"1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+		],
+		"risky choice probability": [
+			0.41,
+			0.37
+		],
+		"participants": [
+			22,
+			19
+		],
+		"category": 17
+	},
+	"KuhbergerPlant2Certain": {
+		"context": "A large car manufacturer was stated to be in serious econmic difficulties with employees at stake. The two possible plans were:",
+		"gain frame": [
+			"Plan A: This plan will save 1 plant and 4000 jobs but 8000 jobs and 3 plants with not be saved",
+			"Plan B: : This plan has a 1/3 probability of saving all 3 plants and all 12000 jobs, but has a 2/3 probability of saving no plants and jobs"
+		],
+		"loss frame": [
+			"Plan C: This plan will result in the loss of 2 plants and 8000 jobs but 1 plant and 4000 jobs will not be lost.",
+			"Plan D: This plan has a 2/3 probability of resulting in the loss of 3 plants and all 12000 jobs, but has a 1/3 probability of losing no plants and jobs"
+		],
+		"risky choice probability": [
+			0.31,
+			0.37
+		],
+		"participants": [
+			13,
+			19
+		],
+		"category": 17
+	},
+	"Kuhberger1995Cancer2Certain": {
+		"context": "Two cancer treatments have been developed which will be applied to a population",
+		"gain frame": [
+			"If treatment A is adopted, 800 people who get cancer will be saved and 200 people will not be saved",
+			"If treatment B is adopted, there is a 4/5 chance that all 1000 people who get cancer will be saved and a 1/5 chance that nobody will be saved"
+		],
+		"loss frame": [
+			"If treatment A is adopted, 200 people who get cancer will die and 800 people will not die",
+			"If treatment B is adopted, there is a 4/5 chance that nobody will die and 1/5 chance that all 1000 people will die"
+		],
+		"risky choice probability": [
+			0.71,
+			0.62
+		],
+		"participants": [
+			7,
+			13
+		],
+		"category": 17
+	},
+
+	"KuhbergerADP1CertainTruncated": {
+		"context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+		"gain frame": [
+			"200 people will be saved and 400 people will not be saved",
+			"1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+		],
+		"loss frame": [
+			"400 people will die and 200 people will not die",
+			"1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+		],
+		"risky choice probability": [
+			0.60,
+			0.43
+		],
+		"participants": [
+			25,
+			23
+		],
+		"category": 18
+	},
+	"KuhbergerPlant1CertainTruncated": {
+		"context": "A large car manufacturer was stated to be in serious econmic difficulties with 12000 employees at stake. The two possible plans were:",
+		"gain frame": [
+			"Plan A: This plan will save 1 plant and 4000 jobs but 8000 jobs and 3 plants with not be saved",
+			"Plan B: : This plan has a 1/3 probability of saving all 3 plants and all 12000 jobs, but has a 2/3 probability of saving no plants and jobs"
+		],
+		"loss frame": [
+			"Plan C: This plan will result in the loss of 2 plants and 8000 jobs but 1 plant and 4000 jobs will not be lost.",
+			"Plan D: This plan has a 2/3 probability of resulting in the loss of 3 plants and all 12000 jobs, but has a 1/3 probability of losing no plants and jobs"
+		],
+		"risky choice probability": [
+			0.44,
+			0.57
+		],
+		"participants": [
+			27,
+			23
+		],
+		"category": 18
+	},
+	"Kuhberger1995Cancer1CertainTruncated": {
+		"context": "Two cancer treatments have been developed which will be applied to a population of 1000 people",
+		"gain frame": [
+			"If treatment A is adopted, 800 people who get cancer will be saved and 200 people will not be saved",
+			"If treatment B is adopted, there is a 4/5 chance that all 1000 people who get cancer will be saved and a 1/5 chance that nobody will be saved"
+		],
+		"loss frame": [
+			"If treatment A is adopted, 200 people who get cancer will die and 800 people will not die",
+			"If treatment B is adopted, there is a 4/5 chance that nobody will die and 1/5 chance that all 1000 people will die"
+		],
+		"risky choice probability": [
+			0.75,
+			0.43
+		],
+		"participants": [
+			24,
+			23
+		],
+		"category": 18
+	},
+	"KuhbergerADP2CertainTruncated": {
+		"context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill some people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+		"gain frame": [
+			"200 people will be saved and 400 people will not be saved",
+			"1/3 probability that all 600 lives will be saved 2/3 probability that no lives will be saved"
+		],
+		"loss frame": [
+			"400 people will die and 200 people will not die",
+			"1/3 probability that no one will die and a 2/3 probability that all 600 will die"
+		],
+		"risky choice probability": [
+			0.50,
+			0.37
+		],
+		"participants": [
+			16,
+			19
+		],
+		"category": 18
+	},
+	"KuhbergerPlant2CertainTruncated": {
+		"context": "A large car manufacturer was stated to be in serious econmic difficulties with employees at stake. The two possible plans were:",
+		"gain frame": [
+			"Plan A: This plan will save 1 plant and 4000 jobs but 8000 jobs and 3 plants with not be saved",
+			"Plan B: : This plan has a 1/3 probability of saving all 3 plants and all 12000 jobs, but has a 2/3 probability of saving no plants and jobs"
+		],
+		"loss frame": [
+			"Plan C: This plan will result in the loss of 2 plants and 8000 jobs but 1 plant and 4000 jobs will not be lost.",
+			"Plan D: This plan has a 2/3 probability of resulting in the loss of 3 plants and all 12000 jobs, but has a 1/3 probability of losing no plants and jobs"
+		],
+		"risky choice probability": [
+			0.57,
+			0.50
+		],
+		"participants": [
+			14,
+			14
+		],
+		"category": 18
+	},
+	"Kuhberger1995Cancer2CertainTruncated": {
+		"context": "Two cancer treatments have been developed which will be applied to a population",
+		"gain frame": [
+			"If treatment A is adopted, 800 people who get cancer will be saved and 200 people will not be saved",
+			"If treatment B is adopted, there is a 4/5 chance that all 1000 people who get cancer will be saved and a 1/5 chance that nobody will be saved"
+		],
+		"loss frame": [
+			"If treatment A is adopted, 200 people who get cancer will die and 800 people will not die",
+			"If treatment B is adopted, there is a 4/5 chance that nobody will die and 1/5 chance that all 1000 people will die"
+		],
+		"risky choice probability": [
+			0.50,
+			0.44
+		],
+		"participants": [
+			14,
+			16
+		],
+		"category": 18
+	},
+		"Mandel2014#3CertainZero": {
+		"context": "Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows:",
+		"gain frame": [
+			"If Plan A is adopted, it is certain that 200 people will be saved (and 400 people will not be saved).",
+			"If Plan B is adopted, and a 2/3 probability that nobody will be saved."
+		],
+		"loss frame": [
+			"If Plan A is adopted, it is certain that 400 people will die (but it is also certain that 200 people will be saved).",
+			"If Plan B is adopted 1/3 probability that nobody will die."
+		],
+		"risky choice probability": [
+			0.58,
+			0.32
+		],
+		"participants": [
+			26,
+			25
+		],
+		"category": 19
+	},
+	"MandelExpTruncated": {
+		"context": "In a war-torn region, the lives of 600 stranded people are at stake. Two response plans with the following outcomes have been proposed.",
+		"gain frame": [
+			"If Plan A is adopted, it is certain that 400 people will not be saved.",
+			"If Plan B is adopted, there is a two-thirds probability that all 600 people will not be saved"
+		],
+		"loss frame": [
+			"If Plan A is adopted, it is certain that 400 people will die.",
+			"If Plan B is adopted, there is a two-thirds probability that all 600 people will die"
+		],
+		"risky choice probability": [
+			0.48,
+			0.72
+		],
+		"participants": [
+			23,
+			25
+		],
+		"category": 20
+	},
+	"MandelExp2Truncated": {
+		"context": "In a war-torn region, the lives of 600 stranded people are at stake. Two response plans with the following outcomes have been proposed.",
+		"gain frame": [
+			"If Plan A is adopted, it is certain that 400 people will not be saved.",
+			"If Plan B is adopted, there is a two-thirds probability that all 600 people will not be saved"
+		],
+		"loss frame": [
+			"If Plan A is adopted, it is certain that 400 people will die.",
+			"If Plan B is adopted, there is a two-thirds probability that all 600 people will die"
+		],
+		"risky choice probability": [
+			0.48,
+			0.72
+		],
+		"participants": [
+			23,
+			25
+		],
+		"category": 20
+	}
+}
